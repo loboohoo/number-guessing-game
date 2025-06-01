@@ -9,7 +9,6 @@ A simple Python terminal game where the user tries to guess a randomly chosen nu
 - Tracks number of attempts
 
    How to Run
-
 1. Make sure Python is installed (`python --version`)
 2. Clone this repository or copy the code into a file named `guessing_game.py`
 3. Run the game:
